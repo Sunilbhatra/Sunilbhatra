@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack web development
 - 📫 How to reach me:sunilbhatra295@gmail.com/8144439695
 - 😄 Pronouns:he/him
-- ⚡ Fun fact:I am an Odissian!😄💞️
+- ⚡ Fun fact: I am an Odissian!😄💞️
 
 <!---
 Sunilbhatra/Sunilbhatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
